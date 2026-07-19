@@ -46,3 +46,5 @@ app.*.map.json
 # Google client secrets
 app/client_secret_release.json
 app/client_secret_web.json
+config.bat
+node_modules
