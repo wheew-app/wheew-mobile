@@ -55,3 +55,5 @@ app.*.map.json
 # API key(s) — real values live only here, never committed. Copy
 # app_config.example.dart to app_config.dart and fill in the real key.
 lib/core/config/app_config.dart
+config.bat
+node_modules
